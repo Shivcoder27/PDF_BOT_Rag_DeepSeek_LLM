@@ -1,3 +1,5 @@
+fastapi==0.110.0
+uvicorn==0.29.0
 langchain-community==0.3.16
 langchain==0.3.16
 langchain-huggingface==0.1.2
